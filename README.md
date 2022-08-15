@@ -1,4 +1,4 @@
-#Internet-Of-Things
+<h1>Internet Of Things</h1>
 <p>This Repository is to show my programming skills while using the Oplá Arduino Kit, and the Arduino MKR1010 Wi-Fi board</p>
 <p>It has some small projects that were created and later on incorporated in a bigger project </p>
 
